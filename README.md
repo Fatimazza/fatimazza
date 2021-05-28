@@ -2,10 +2,10 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/fatimazza/fatimazza)](https://github.com/fatimazza)
 
-## 💁 &nbsp;About Fatimazza 
+## 👩‍💻 &nbsp;About Fatimazza 
 
-Female developer who passionate in learning and sharing. 
-Experienced in training and developing native Android-based app. 
+Female developer who passionate in learning and sharing. <br />
+Experienced in training and developing native Android-based app. <br />
 Actively participate in various events related to Tech and Education.
 
 ## 📊️&nbsp;Github Stats
