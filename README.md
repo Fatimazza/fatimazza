@@ -1,4 +1,4 @@
-## Hi, I'm [Fatimazza!](https://github.com/Fatimazza) 👋
+## Hi, I'm [Fatimazza!](https://github.com/Fatimazza) 👋 [![Visits Badge](https://badges.pufler.dev/visits/fatimazza/fatimazza)]
 
 ## 📊️&nbsp;Github Stats
 
