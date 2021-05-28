@@ -2,6 +2,11 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/fatimazza/fatimazza)](https://github.com/fatimazza)
 
+## 💁 &nbsp;About Fatimazza 
+
+💡 &nbsp; I am passionate in Tech and Education <br />
+🎯 &nbsp; Learning and Sharing
+
 ## 📊️&nbsp;Github Stats
 
 <a href="https://github.com/fatimazza">
