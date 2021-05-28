@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## 📊️&nbsp;Github Stats
+
+<a href="https://github.com/fatimazza">
+  <img alt="Fatimazza's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimazza&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img alt="Fatimazza's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazza&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
+</a>
+
 <!--
 **Fatimazza/fatimazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
