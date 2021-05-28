@@ -11,8 +11,7 @@
 
 ## 📊️&nbsp;Github Stats #2
 
-[<img align="left" width="400" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">](https://github.com/lowlighter/metrics)
-[<img align="right" width="400" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.anilist.svg">](https://github.com/lowlighter/metrics)
+[<img align="left" width="400" alt="🦑" src="https://github.com/fatimazza/fatimazza/blob/master/metrics.svg">](https://github.com/fatimazza/metrics)
 
 ## :mailbox: Get in Touch with Fatimazza
 
