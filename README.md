@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi, I'm [Fatimazza!](https://github.com/Fatimazza) 👋
 
 ## 📊️&nbsp;Github Stats
 
 <a href="https://github.com/fatimazza">
-  <img alt="Fatimazza's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimazza&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img alt="Fatimazza's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazza&layout=compact&theme=vue-dark&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
+  <img alt="Fatimazza's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimazza&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
+  <img alt="Fatimazza's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazza&layout=compact&theme=nightowl&hide=shards,shaderlab,hlsl,html,css&langs_count=6" />
 </a>
 
 <!--
