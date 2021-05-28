@@ -4,8 +4,9 @@
 
 ## 💁 &nbsp;About Fatimazza 
 
-💡 &nbsp; I am passionate in Tech and Education <br />
-🎯 &nbsp; Learning and Sharing
+Female developer who passionate in learning and sharing. 
+Experienced in training and developing native Android-based app. 
+Actively participate in various events related to Tech and Education.
 
 ## 📊️&nbsp;Github Stats
 
