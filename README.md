@@ -9,10 +9,6 @@
   <img alt="Fatimazza's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazza&layout=compact&theme=nightowl&hide=&langs_count=8&exclude_repo=a14-made-labs4,programming-with-android,android-image-picker,AdvancedAndroid_TeaTime" />
 </a>
 
-## 📊️&nbsp;Github Stats #2
-
-[<img align="left" width="400" alt="🦑" src="https://github.com/fatimazza/fatimazza/blob/master/metrics.svg">](https://github.com/fatimazza/metrics)
-
 ## :mailbox: Get in Touch with Fatimazza
 
 <p align="center" id="contact">
