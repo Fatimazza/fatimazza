@@ -9,6 +9,13 @@
   <img alt="Fatimazza's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazza&layout=compact&theme=nightowl&hide=&langs_count=8&exclude_repo=a14-made-labs4,programming-with-android,android-image-picker,AdvancedAndroid_TeaTime" />
 </a>
 
+## :mailbox: Get in Touch with Fatimazza
+
+<p align="center" id="contact">
+  <a href= "https://www.linkedin.com/in/fatimaazzahro/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "mailto:azzahro.fatima@gmail.com"><img src="https://img.icons8.com/dusk/48/000000/gmail.png"/></a>
+</p>
+
 <!--
 **Fatimazza/fatimazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
