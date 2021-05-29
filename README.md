@@ -2,9 +2,6 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/fatimazza/fatimazza)](https://github.com/fatimazza)
 
-[<img align="left" width="400" alt="🦑" src="https://github.com/fatimazza/lowlighter/blob/master/metrics.svg">](https://github.com/lowlighter/metrics)
-[<img align="right" width="400" alt="🦑" src="https://github.com/fatimazza/lowlighter/blob/master/metrics.personal.anilist.svg">](https://github.com/lowlighter/metrics)
-
 ## 👩‍💻 &nbsp;About Fatimazza 
 
 Female developer who passionate in learning and sharing. <br />
