@@ -1,3 +1,5 @@
+![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+) `#D8BFD8`
+
 ## Hi, I'm [Fatimazza!](https://github.com/Fatimazza) 👋 
 
 [![Visits Badge](https://badges.pufler.dev/visits/fatimazza/fatimazza)](https://github.com/fatimazza)
