@@ -1,13 +1,11 @@
-![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+)![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+)![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+)
-
 ## Hi, I'm [Fatimazza!](https://github.com/Fatimazza) 👋 
 
-[![Visits Badge](https://badges.pufler.dev/visits/fatimazza/fatimazza)](https://github.com/fatimazza)
+(https://via.placeholder.com/15/D8BFD8/000000?text=+) [![Visits Badge](https://badges.pufler.dev/visits/fatimazza/fatimazza)](https://github.com/fatimazza)
 
 ## 👩‍💻 &nbsp;About Fatimazza 
 
 ```diff
-@@ Female developer who passionate in learning and sharing. @@
+Female developer who passionate in learning and sharing.
 @@ Experienced in training and developing native Android-based app. @@
 @@ Actively participate in various events related to Tech and Education. @@
 ```
