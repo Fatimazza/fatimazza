@@ -15,6 +15,16 @@
   <img alt="Fatimazza's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazza&layout=compact&theme=nightowl&hide=java&langs_count=8&exclude_repo=a14-made-labs4,android-image-picker,PixImagePicker,AdvancedAndroid_TeaTime,kotlin-notepad,AdvancedAndroid_Shushme,AdvancedAndroid_Squawker,AdvancedAndroid_ClassicalMusicQuiz,AdvancedAndroid_Emojify,Android_Me,AndroidNano,ud851-Exercises,AndroidNano-ud851-Sunshine,ud867,android-fundamentals,programming-with-android,android-kotlin-fundamentals-starter-apps,ud867" />
 </a>
 
+## 🛠 Tech. Stacks & Tools
+
+### Languages :
+
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> &nbsp;&nbsp;
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;&nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> &nbsp;&nbsp;
+<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;
+<img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> &nbsp;&nbsp;
+
 ## :mailbox: Get in Touch with Fatimazza
 
 <p align="center" id="contact">
