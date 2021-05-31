@@ -1,4 +1,4 @@
-![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+) `#D8BFD8`
+![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+)![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+)![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+)
 
 ## Hi, I'm [Fatimazza!](https://github.com/Fatimazza) 👋 
 
@@ -6,9 +6,11 @@
 
 ## 👩‍💻 &nbsp;About Fatimazza 
 
-Female developer who passionate in learning and sharing. <br />
-Experienced in training and developing native Android-based app. <br />
-Actively participate in various events related to Tech and Education.
+```diff
+@@ Female developer who passionate in learning and sharing. @@
+@@ Experienced in training and developing native Android-based app. @@
+@@ Actively participate in various events related to Tech and Education. @@
+```
 
 ## 📊️&nbsp;Github Stats
 
