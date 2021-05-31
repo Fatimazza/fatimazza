@@ -4,9 +4,13 @@
 
 ## 👩‍💻 &nbsp;About Fatimazza 
 
-![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+) <font size="+2"> Female developer passionate in learning and sharing. </font> <br />
+<font size="+2">
+
+![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+) Female developer passionate in learning and sharing. <br />
 ![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+) Experienced in training and developing native Android-based app. <br />
 ![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+) Actively participate in various events related to Tech and Education. <br />
+  
+ </font> 
 
 ## 📊️&nbsp;Github Stats
 
