@@ -8,6 +8,7 @@
 
 <!-- ![#D8BFD8](https://via.placeholder.com/15/D8BFD8/000000?text=+)  Female developer passionate in learning and sharing. <br /> -->
 ♡  Female developer passionate in learning and sharing. <br />
+♡  Recently exploring QA Automation for web & app. <br />
 ♡  Experienced in training and developing native Android-based app. <br />
 ♡  Actively participate in various events related to Tech and Education. <br />
 
