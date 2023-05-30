@@ -16,7 +16,7 @@
 
 <a href="https://github.com/fatimazza">
   <img alt="Fatimazza's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimazza&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-  <img alt="Fatimazza's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazza&layout=compact&theme=nightowl&hide=java&langs_count=8&exclude_repo=a14-made-labs4,android-image-picker,PixImagePicker,AdvancedAndroid_TeaTime,kotlin-notepad,AdvancedAndroid_Shushme,AdvancedAndroid_Squawker,AdvancedAndroid_ClassicalMusicQuiz,AdvancedAndroid_Emojify,Android_Me,AndroidNano,ud851-Exercises,AndroidNano-ud851-Sunshine,ud867,android-fundamentals,programming-with-android,android-kotlin-fundamentals-starter-apps,ud867" />
+  <img alt="Fatimazza's most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazza&layout=compact&theme=nightowl&hide=java,html&langs_count=8&exclude_repo=a14-made-labs4,android-image-picker,PixImagePicker,AdvancedAndroid_TeaTime,kotlin-notepad,AdvancedAndroid_Shushme,AdvancedAndroid_Squawker,AdvancedAndroid_ClassicalMusicQuiz,AdvancedAndroid_Emojify,Android_Me,AndroidNano,ud851-Exercises,AndroidNano-ud851-Sunshine,ud867,android-fundamentals,programming-with-android,android-kotlin-fundamentals-starter-apps,ud867" />
 
 ## 🛠 Tech. Stacks & Tools
 
